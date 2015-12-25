@@ -7,12 +7,12 @@ The online generator: http://pac.sjz.io/
 http://pac.sjz.io/[SERVER]/[PORT]/
 ```
 
-For local:
+###For local:
 ```
 http://pac.sjz.io/192.168.1.123/1080
 ```
 
-For domain:
+###For domain:
 ```
 http://pac.sjz.io/example.com/8099
 ```
