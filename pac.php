@@ -1,4 +1,8 @@
 <?php
+/***********
+ * Project: https://github.com/e10101/proxy-pac-generator
+ * Online Generator: http://pac.sjz.io/
+ */
 	//header('Content-Type: application/x-ns-proxy-autoconfig');
 	header('Content-Type: application/javascript');
 	$address = '';
